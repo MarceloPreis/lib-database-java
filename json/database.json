@@ -1,0 +1,31 @@
+{
+    "DBName": "test",
+    "tables": [
+        {
+            "tableName": "Table1",
+            "columns": [
+                {
+                    "name": "coluna11",
+                    "type": "varchar(255)"
+                },
+                {
+                    "name": "coluna12",
+                    "type": "int"
+                }
+            ]
+        },
+        {
+            "tableName": "Table2",
+            "columns": [
+                {
+                    "name": "coluna21",
+                    "type": "varchar(255)"
+                },
+                {
+                    "name": "coluna22",
+                    "type": "int"
+                }
+            ]
+        }
+    ]
+}

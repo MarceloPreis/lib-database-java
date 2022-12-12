@@ -1,0 +1,7 @@
+{
+    "database": "test",
+    "url": "jdbc:mysql://localhost/test",
+    "user": "root",
+    "pass": "",
+    "sgbd": "1"
+}
